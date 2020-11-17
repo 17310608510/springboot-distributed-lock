@@ -1,0 +1,2 @@
+需求背景
+Springboot集成分布式锁实现：基于Redis实现。通过使用Spring Integration它提供的全局锁实现，同时，它还提供了其他存储的分布式锁实现：如Gemfire，JDBC，Zookeeper等。
